@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexeyK2021
-- 👀 I’m interested in programming and game development
-- 🌱 I’m currently learning Java and C#
+- 👀 I’m interested in programming, game development and Android
+- 🌱 I’m currently learning Kotlin and C#
 - 💞️ I’m looking to collaborate on big companies and small groups
 - 📫 How to reach me? I don't know.
 
